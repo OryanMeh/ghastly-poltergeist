@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Auto Continue</string>
+    <string name="service_desc">Reads the Claude app screen to detect a usage limit, then types "Continue" after it resets. Only active for the Claude app.</string>
+</resources>
